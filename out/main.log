@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.3)  13 SEP 2024 10:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.3)  15 SEP 2024 09:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -424,8 +424,18 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
-(./Sections/education.tex) (./Sections/interests.tex)
-(./Sections/publications.tex) (./Sections/patents.tex) (./Sections/exp.tex
+(./Sections/education.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--6
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 8--14
+
+ []
+
+(./Sections/interests.tex) (./Sections/publications.tex)
+(./Sections/patents.tex) (./Sections/exp.tex
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
 .
 
@@ -447,7 +457,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  10006 strings out of 476025
  162078 string characters out of 5790018
- 1870388 words of memory out of 5000000
+ 1871388 words of memory out of 5000000
  30266 multiletter control sequences out of 15000+600000
  526997 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -458,7 +468,7 @@ cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive
 -dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2023/texmf-dist/font
 s/type1/public/lm/lmtt10.pfb>
 Output written on "/Users/zeyadmanaa/Documents/My Personal Website/CV/out/main.
-pdf" (2 pages, 153586 bytes).
+pdf" (2 pages, 153532 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  113 compressed objects within 2 object streams
