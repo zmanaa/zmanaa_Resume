@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.3)  23 SEP 2024 20:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.3)  24 SEP 2024 15:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -27,40 +27,8 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/lmodern.sty
-Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
@@ -312,8 +280,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip66
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 62.
-Package hyperref Info: Option `breaklinks' set `true' on input line 62.
+Package hyperref Info: Option `colorlinks' set `true' on input line 63.
+Package hyperref Info: Option `breaklinks' set `true' on input line 63.
 \enitdp@outerlist=\count283
 \enitdp@lonelist=\count284
 \enitdp@innerlist=\count285
@@ -321,11 +289,11 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 62.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/doi/doi.sty
 Package: doi 2018/09/09 handle doi numbers
 ))
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 7.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 7.
 
 
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
@@ -384,14 +352,14 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includemp 
-* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
-* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(36.135pt, 686.565pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=471.56242pt
-* \textheight=722.7pt
-* \oddsidemargin=34.32759pt
-* \evensidemargin=34.32759pt
+* \textwidth=399.29243pt
+* \textheight=686.565pt
+* \oddsidemargin=70.46259pt
+* \evensidemargin=70.46259pt
 * \topmargin=-73.135pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -418,60 +386,80 @@ Package hyperref Info: Link coloring ON on input line 7.
 
 
 (./Sections/headline.tex
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-2.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 12
+.
 
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ))
 (./Sections/education.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--6
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--7
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 8--14
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
  []
 
-(./Sections/interests.tex) (./Sections/publications.tex)
-(./Sections/patents.tex) (./Sections/exp.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
-.
+(./Sections/interests.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]\T1/ptm/m/n/10 Refereed
+ []
 
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [1
+(./Sections/publications.tex) (./Sections/patents.tex) [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/202
-3/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]) (./Sections/intenships.tex)
-(./Sections/teaching.tex) (./Sections/talks.tex) (./Sections/fellowships.tex)
-(./Sections/skills.tex) [2]
+al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\T1/ptm/m/n/10 Research
+ []
 
+(./Sections/exp.tex
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 6
+.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+))
+(./Sections/intenships.tex) (./Sections/teaching.tex) (./Sections/talks.tex)
+(./Sections/fellowships.tex) [2] (./Sections/skills.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]\T1/ptm/m/n/10 Leadership
+ []
+
+[3] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (/Users/zeyadmanaa/Documents/My Personal Website/CV/out/main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 448F49EC70488DEF627A00971AD39F70;1279.
+(rerunfilecheck)             Checksum: 03B0BE8915EEFBCC82EC5C39EC250485;1193.
  ) 
 Here is how much of TeX's memory you used:
- 10006 strings out of 476025
- 162078 string characters out of 5790018
- 1870388 words of memory out of 5000000
- 30266 multiletter control sequences out of 15000+600000
- 526997 words of font info for 39 fonts, out of 8000000 for 9000
+ 10010 strings out of 476025
+ 161250 string characters out of 5790018
+ 1867388 words of memory out of 5000000
+ 30256 multiletter control sequences out of 15000+600000
+ 535069 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,5n,90p,297b,520s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
-cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive
-/2023/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2023/texmf
--dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2023/texmf-dist/font
-s/type1/public/lm/lmtt10.pfb>
+ 90i,8n,90p,344b,429s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/
+local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texl
+ive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/t
+exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
 Output written on "/Users/zeyadmanaa/Documents/My Personal Website/CV/out/main.
-pdf" (2 pages, 153634 bytes).
+pdf" (3 pages, 75117 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
+ 127 PDF objects out of 1000 (max. 8388607)
  112 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
+ 30 named destinations out of 1000 (max. 500000)
  97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
