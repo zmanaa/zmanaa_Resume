@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.3)  24 SEP 2024 15:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.3)  27 SEP 2024 15:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -356,16 +356,16 @@ e
 * v-part:(T,H,B)=(36.135pt, 686.565pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=399.29243pt
+* \textwidth=392.065pt
 * \textheight=686.565pt
-* \oddsidemargin=70.46259pt
-* \evensidemargin=70.46259pt
+* \oddsidemargin=77.69002pt
+* \evensidemargin=77.69002pt
 * \topmargin=-73.135pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.04256pt
+* \marginparwidth=72.26999pt
 * \marginparsep=5.42003pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -394,20 +394,20 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ))
 (./Sections/education.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
+(Font)              <7> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
+(Font)              <5> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
+(Font)              <6> on input line 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--7
+Underfull \hbox (badness 10000) in paragraph at lines 1--8
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 11--14
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
 
@@ -416,11 +416,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []\T1/ptm/m/n/10 Refereed
  []
 
-(./Sections/publications.tex) (./Sections/patents.tex) [1
+(./Sections/publications.tex) (./Sections/preprints.tex [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
+al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}]) (./Sections/patents.t
+ex)
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
 []\T1/ptm/m/n/10 Research
  []
 
@@ -432,34 +433,41 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 6
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ))
 (./Sections/intenships.tex) (./Sections/teaching.tex) (./Sections/talks.tex)
-(./Sections/fellowships.tex) [2] (./Sections/skills.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[2] (./Sections/fellowships.tex) (./Sections/skills.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
 []\T1/ptm/m/n/10 Leadership
  []
 
 [3] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (/Users/zeyadmanaa/Documents/My Personal Website/CV/out/main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 03B0BE8915EEFBCC82EC5C39EC250485;1193.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 91D4E24BC8184EF93F2D94C49298CF63;1363
+(rerunfilecheck)             After:  774D6C3B9ADC2554C30E4FDDD44A1801;1284.
  ) 
 Here is how much of TeX's memory you used:
- 10010 strings out of 476025
- 161250 string characters out of 5790018
+ 10020 strings out of 476025
+ 161437 string characters out of 5790018
  1867388 words of memory out of 5000000
- 30256 multiletter control sequences out of 15000+600000
+ 30261 multiletter control sequences out of 15000+600000
  535069 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,8n,90p,344b,429s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/
-local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texl
-ive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/t
-exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+ 90i,8n,90p,344b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
+</usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/lo
+cal/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texliv
+e/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/tex
+mf-dist/fonts/type1/urw/times/utmri8a.pfb>
 Output written on "/Users/zeyadmanaa/Documents/My Personal Website/CV/out/main.
-pdf" (3 pages, 75161 bytes).
+pdf" (3 pages, 84013 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 112 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
